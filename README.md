@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkirook)](https://solved.ac/kkirook/)
-
