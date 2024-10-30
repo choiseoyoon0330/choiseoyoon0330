@@ -32,10 +32,10 @@
     <tr align = "center"> 
       <td>2024.07 - 2024.08</td>
       <td>
-        AdaIN for Video
+        Neural Style Transfer for Video
       </td>
       <td>
-        Python
+        Python, PyTorch
       </td>
     </tr>
   </tbody>
