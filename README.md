@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr> 
-      <td>2024.07d - 2024.08</td>
+      <td>2024.07 - 2024.08</td>
       <td>
         Neural Style Transfer for Video
       </td>
