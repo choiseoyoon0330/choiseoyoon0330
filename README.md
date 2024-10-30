@@ -19,7 +19,7 @@
     <tr> <!-- project -->
       <td>2023.09-2023.12</td>
       <td>
-        SNAPIX
+        사진작가를 위한 온라인 플랫폼, SNAPIX
       </td>
       <td>
         React
