@@ -14,15 +14,15 @@
 ### Project
 
 <table>
-  <thead>
-    <tr align = "center">
+  <thead align = "center">
+    <tr>
       <th>Duration</th>
       <th>Project</th>
       <th>Stack</th>
     </tr>
   </thead>
-  <tbody>
-    <tr align = "center">
+  <tbody align = "center">
+    <tr>
       <td>2023.09 - 2023.12</td>
       <td>
         사진작가를 위한 온라인 플랫폼, SNAPIX
@@ -31,8 +31,8 @@
         HTML, CSS, JavaScript
       </td>
     </tr>
-    <tr align = "center"> 
-      <td>2024.07 - 2024.08</td>
+    <tr> 
+      <td>2024.07d - 2024.08</td>
       <td>
         Neural Style Transfer for Video
       </td>
