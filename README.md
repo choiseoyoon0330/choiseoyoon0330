@@ -19,6 +19,7 @@
       <th>Duration</th>
       <th>Project</th>
       <th>Stack</th>
+      <th>More</th>
     </tr>
   </thead>
   <tbody align = "center">
@@ -30,6 +31,9 @@
       <td>
         HTML, CSS, JavaScript
       </td>
+      <td>
+        <a href="https://github.com/APPS-sookmyung/2023-SNAPIX">GitHub</a>
+      </td>
     </tr>
     <tr> 
       <td>2024.07 - 2024.08</td>
@@ -38,6 +42,9 @@
       </td>
       <td>
         Python, PyTorch
+      </td>
+      <td>
+        <a href="https://github.com/choiseoyoon0330/NST_Video">GitHub</a>
       </td>
     </tr>
   </tbody>
