@@ -13,20 +13,29 @@
 
 <table>
   <thead>
-    <tr>
+    <tr align = "center">
       <th>Duration</th>
       <th>Project</th>
       <th>Stack</th>
     </tr>
   </thead>
   <tbody>
-    <tr> <!-- project -->
+    <tr align = "center">
       <td>2023.09 - 2023.12</td>
       <td>
         사진작가를 위한 온라인 플랫폼, SNAPIX
       </td>
       <td>
         React
+      </td>
+    </tr>
+    <tr align = "center"> 
+      <td>2024.07 - 2024.08</td>
+      <td>
+        AdaIN for Video
+      </td>
+      <td>
+        Python
       </td>
     </tr>
   </tbody>
