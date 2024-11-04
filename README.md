@@ -44,7 +44,7 @@
         Python, PyTorch, OpenCV
       </td>
       <td>
-        <a href="https://github.com/choiseoyoon0330/NST_Video">GitHub</a>
+        <a href="https://github.com/choiseoyoon0330/NST-Video">GitHub</a>
       </td>
     </tr>
   </tbody>
