@@ -26,7 +26,7 @@
     <tr>
       <td>2023.09 - 2023.12</td>
       <td>
-        사진작가를 위한 온라인 플랫폼, SNAPIX
+        SNAPIX - Online Platform for Photographer
       </td>
       <td>
         HTML, CSS, JavaScript
