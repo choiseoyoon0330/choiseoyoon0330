@@ -1,7 +1,6 @@
 ## Hi, I'm Seoyoon 👋
 
 ### Interests
-* AI
 * Machine Learning
 * Deep Learning (GAN, NLP)
 * Multimodal Learning
