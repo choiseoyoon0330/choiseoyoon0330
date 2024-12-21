@@ -51,6 +51,7 @@
 </table>
 
 <!-- ### Experiences
+- Qualcomm Institute AI Research-focused Project 2025.01.8 - 2025.02.16
 * -->
 
 ### Stats
