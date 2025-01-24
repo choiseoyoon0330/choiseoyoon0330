@@ -2,7 +2,7 @@
 
 ### Interests
 * Machine Learning
-* Deep Learning (GAN, NLP)
+* Deep Learning
 * Multimodal Learning
 
 ### Skills
