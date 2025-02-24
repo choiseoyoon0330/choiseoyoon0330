@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white">  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white">  
 
 ### Awards & Honors
+- Qualcomm Institute Artificial Intelligence (AI) Development Project, UCSD **`2nd Place Outstanding Achievement Award`**
 
 ### Projects
 
