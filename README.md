@@ -59,7 +59,7 @@
         KNIME
       </td>
       <td>
-        <a href="">GitHub</a>
+        <a href=""></a>
       </td>
     </tr>
   </tbody>
