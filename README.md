@@ -50,6 +50,18 @@
         <a href="https://github.com/choiseoyoon0330/NST-Video">GitHub</a>
       </td>
     </tr>
+    <tr> 
+      <td>2025.01 - 2025.02</td>
+      <td>
+        Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
+      </td>
+      <td>
+        KNIME
+      </td>
+      <td>
+        <a href="">GitHub</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
