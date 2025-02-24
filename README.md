@@ -27,7 +27,7 @@
   </thead>
   <tbody align = "center">
     <tr>
-      <td>2023.09 - 2023.12</td>
+      <td>Sep 2023 - Dec 2023</td>
       <td>
         SNAPIX - Online Platform for Photographer
       </td>
@@ -39,7 +39,7 @@
       </td>
     </tr>
     <tr> 
-      <td>2024.07 - 2024.08</td>
+      <td>Jul 2024 - Aug 2024</td>
       <td>
         Neural Style Transfer for Video
       </td>
@@ -51,7 +51,7 @@
       </td>
     </tr>
     <tr> 
-      <td>2025.01 - 2025.02</td>
+      <td>Jan 2025 - Feb 2025</td>
       <td>
         Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
       </td>
@@ -66,7 +66,7 @@
 </table>
 
 ### Experiences
-- 14th Qualcomm Institute AI Research-focused Project, UCSD `2025.01 - 2025.02`
+- 14th Qualcomm Institute AI Research-focused Project, UCSD `Jan 2025 - Feb 2025`
 
 ### Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoiseoyoon0330&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
