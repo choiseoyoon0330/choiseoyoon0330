@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white">  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white">  
 
 ### Awards & Honors
-- Qualcomm Institute Artificial Intelligence (AI) Development Project **`2nd Place Outstanding Achievement Award`**
+- 14th Qualcomm Institute Artificial Intelligence (AI) Development Project **`2nd Place Outstanding Achievement Award`**
 
 ### Projects
 
@@ -66,7 +66,7 @@
 </table>
 
 ### Experiences
-- 14th Qualcomm Institute AI Research-focused Project, UCSD `Jan 2025 - Feb 2025`
+- 14th Qualcomm Institute, UCSD AI Research-focused Project `Jan 2025 - Feb 2025`
 
 ### Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoiseoyoon0330&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
