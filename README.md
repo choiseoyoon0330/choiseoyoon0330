@@ -35,7 +35,7 @@
         HTML, CSS, JavaScript
       </td>
       <td>
-        <a href="https://github.com/APPS-sookmyung/2023-SNAPIX">GitHub</a>
+        <a href="https://github.com/APPS-sookmyung/2023-SNAPIX">[GitHub]</a>
       </td>
     </tr>
     <tr> 
@@ -47,7 +47,7 @@
         Python, PyTorch, OpenCV
       </td>
       <td>
-        <a href="https://github.com/choiseoyoon0330/NST-Video">GitHub</a>
+        <a href="https://github.com/choiseoyoon0330/NST-Video">[GitHub]</a>
       </td>
     </tr>
     <tr> 
@@ -59,8 +59,8 @@
         KNIME
       </td>
       <td>
-        <a href="">Paper</a>
-        <a href="">GitHub</a>
+        <a href="">[Paper]</a>
+        <a href="">[GitHub]</a>
       </td>
     </tr>
   </tbody>
