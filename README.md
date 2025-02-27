@@ -27,7 +27,7 @@
   </thead>
   <tbody align = "center">
     <tr>
-      <td>Sep 2023 - Dec 2023</td>
+      <td>Sep 2023 - <br>Dec 2023</td>
       <td>
         SNAPIX - Online Platform for Photographer
       </td>
@@ -39,7 +39,7 @@
       </td>
     </tr>
     <tr> 
-      <td>Jul 2024 - Aug 2024</td>
+      <td>Jul 2024 - <br>Aug 2024</td>
       <td>
         Neural Style Transfer for Video
       </td>
@@ -51,7 +51,7 @@
       </td>
     </tr>
     <tr> 
-      <td>Jan 2025 - Feb 2025</td>
+      <td>Jan 2025 - <br>Feb 2025</td>
       <td>
         Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
       </td>
