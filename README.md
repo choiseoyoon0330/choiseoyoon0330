@@ -53,7 +53,7 @@
     <tr> 
       <td>Jan 2025 - Feb 2025</td>
       <td>
-        Prediction of Highway Traffic Flow Based on <br>Artificial Intelligence Algorithms Using California Traffic Data
+        Prediction of Highway Traffic Flow <br>Based on Artificial Intelligence Algorithms <br>Using California Traffic Data
       </td>
       <td>
         KNIME
