@@ -26,7 +26,7 @@
     </tr>
   </thead>
   <tbody align = "center">
-    <tr>
+<!--     <tr>
       <td>Sep 2023 - Dec 2023</td>
       <td>
         SNAPIX - Online Platform for Photographer
@@ -37,7 +37,7 @@
       <td>
         <a href="https://github.com/APPS-sookmyung/2023-SNAPIX">[GitHub]</a>
       </td>
-    </tr>
+    </tr> -->
     <tr> 
       <td>Jul 2024 - Aug 2024</td>
       <td>
