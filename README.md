@@ -59,7 +59,8 @@
         KNIME
       </td>
       <td>
-        <a href=""></a>
+        <a href="">Paper</a>
+        <a href="">GitHub</a>
       </td>
     </tr>
   </tbody>
