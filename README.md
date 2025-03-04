@@ -56,7 +56,7 @@
         Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
       </td>
       <td>
-        Python
+        KNIME, Python
       </td>
       <td>
         <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/QI-14th-Program">[GitHub]</a>
