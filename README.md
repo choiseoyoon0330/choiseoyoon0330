@@ -59,7 +59,7 @@
         Python
       </td>
       <td>
-        <a href="">[Paper]</a>  <a href="">[GitHub]</a>
+        <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/QI-14th-Winter-Program">[GitHub]</a>
       </td>
     </tr>
   </tbody>
