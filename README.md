@@ -62,6 +62,18 @@
         <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/QI-14th-Program">[GitHub]</a>
       </td>
     </tr>
+    <tr> 
+      <td>Mar 2025 -</td>
+      <td>
+        RotoNet: Rotoscoping
+      </td>
+      <td>
+        Python
+      </td>
+      <td>
+        <a href="https://github.com/choiseoyoon0330/RotoNet">[GitHub]</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
