@@ -39,7 +39,7 @@
       </td>
     </tr>
     <tr> 
-      <td>Jan 2025 - Feb 2025</td>
+      <td>Jan 2025 - </td>
       <td>
         Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
       </td>
