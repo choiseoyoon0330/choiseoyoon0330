@@ -26,18 +26,6 @@
     </tr>
   </thead>
   <tbody align = "center">
-<!--     <tr>
-      <td>Sep 2023 - Dec 2023</td>
-      <td>
-        SNAPIX - Online Platform for Photographer
-      </td>
-      <td>
-        HTML, CSS, JavaScript
-      </td>
-      <td>
-        <a href="https://github.com/APPS-sookmyung/2023-SNAPIX">[GitHub]</a>
-      </td>
-    </tr> -->
     <tr> 
       <td>Jul 2024 - Aug 2024</td>
       <td>
@@ -65,10 +53,10 @@
     <tr> 
       <td>Mar 2025 -</td>
       <td>
-        RotoNet: Rotoscoping
+        RotoNet: Rotoscoping-Based Artistic Style Transfer Networks
       </td>
       <td>
-        Python
+        Python, PyTorch, OpenCV
       </td>
       <td>
         <a href="https://github.com/choiseoyoon0330/RotoNet">[GitHub]</a>
