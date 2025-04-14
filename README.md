@@ -46,7 +46,7 @@
         KNIME, Python
       </td>
       <td>
-        <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/QI-14th-Program">[GitHub]</a>
+        <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/Traffic-Flow-Prediction">[GitHub]</a>
       </td>
     </tr>
     <tr> 
