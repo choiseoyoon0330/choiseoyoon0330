@@ -26,30 +26,6 @@
   </thead>
   <tbody align = "center">
     <tr> 
-      <td>Jul 2024 - Aug 2024</td>
-      <td>
-        Neural Style Transfer for Video
-      </td>
-      <td>
-        Python, PyTorch, OpenCV
-      </td>
-      <td>
-        <a href="https://github.com/choiseoyoon0330/NST-Video">[GitHub]</a>
-      </td>
-    </tr>
-    <tr> 
-      <td>Jan 2025 - </td>
-      <td>
-        Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
-      </td>
-      <td>
-        KNIME, Python
-      </td>
-      <td>
-        <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/Traffic-Flow-Prediction">[GitHub]</a>
-      </td>
-    </tr>
-    <tr> 
       <td>Mar 2025 -</td>
       <td>
         RotoNet: Rotoscoping-Based Artistic Style Transfer Networks
@@ -59,6 +35,30 @@
       </td>
       <td>
         <a href="https://github.com/choiseoyoon0330/RotoNet">[GitHub]</a>
+      </td>
+    </tr>
+    <tr> 
+      <td>Jan 2025 - Feb 2025</td>
+      <td>
+        Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
+      </td>
+      <td>
+        Python
+      </td>
+      <td>
+        <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/Traffic-Flow-Prediction">[GitHub]</a>
+      </td>
+    </tr>
+    <tr> 
+      <td>Jul 2024 - Aug 2024</td>
+      <td>
+        Neural Style Transfer for Video
+      </td>
+      <td>
+        Python, PyTorch, OpenCV
+      </td>
+      <td>
+        <a href="https://github.com/choiseoyoon0330/NST-Video">[GitHub]</a>
       </td>
     </tr>
   </tbody>
