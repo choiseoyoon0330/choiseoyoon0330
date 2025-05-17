@@ -26,7 +26,7 @@
   </thead>
   <tbody align = "center">
     <tr> 
-      <td>Mar 2025 -</td>
+      <td>Mar 2025 - Jun 2025</td>
       <td>
         RotoNet: Rotoscoping-Based Artistic Style Transfer Networks
       </td>
