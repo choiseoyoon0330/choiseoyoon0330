@@ -2,7 +2,7 @@
 
 ### Interests
 * Multimodal Learning
-* CV
+* Computer Vision
 * LLM
 
 ### Skills
