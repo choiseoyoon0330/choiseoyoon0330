@@ -31,7 +31,7 @@
         RotoNet: Rotoscoping-Based Artistic Style Transfer Networks
       </td>
       <td>
-        Python, PyTorch, OpenCV
+        Python, PyTorch, TensorFlow, OpenCV
       </td>
       <td>
         <a href="https://github.com/choiseoyoon0330/RotoNet">[GitHub]</a>
