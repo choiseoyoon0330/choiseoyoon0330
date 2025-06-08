@@ -26,6 +26,18 @@
   </thead>
   <tbody align = "center">
     <tr> 
+      <td>Jul 2025 - </td>
+      <td>
+        PRISM: Presentation Real-time Intelligent Supervision and Monitoring
+      </td>
+      <td>
+        Python
+      </td>
+      <td>
+        <a href="">[GitHub]</a>
+      </td>
+    </tr>
+    <tr> 
       <td>Mar 2025 - Jun 2025</td>
       <td>
         RotoNet: Rotoscoping-Based Artistic Style Transfer Networks
