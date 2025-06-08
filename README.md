@@ -34,7 +34,7 @@
         Python
       </td>
       <td>
-        <a href="">[GitHub]</a>
+        <a href="https://github.com/choiseoyoon0330/PRISM">[GitHub]</a>
       </td>
     </tr>
     <tr> 
