@@ -25,6 +25,7 @@
     </tr>
   </thead>
   <tbody align = "center">
+    <!--
     <tr> 
       <td>Jul 2025 - </td>
       <td>
@@ -37,6 +38,7 @@
         <a href="https://github.com/choiseoyoon0330/PRISM">[GitHub]</a>
       </td>
     </tr>
+    -->
     <tr> 
       <td>Mar 2025 - Jun 2025</td>
       <td>
