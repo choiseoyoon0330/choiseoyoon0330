@@ -60,7 +60,7 @@
         Python
       </td>
       <td>
-        <a href="">[Paper]</a>  <a href="https://github.com/choiseoyoon0330/Traffic-Flow-Prediction">[GitHub]</a>
+        <a href="https://github.com/choiseoyoon0330/Traffic-Flow-Prediction">[GitHub]</a>
       </td>
     </tr>
     <tr> 
