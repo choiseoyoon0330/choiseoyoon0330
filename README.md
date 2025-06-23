@@ -12,6 +12,7 @@
 
 ### Awards & Honors
 - 14th Qualcomm Institute AI Research-focused Project **`2nd Place Outstanding Achievement Award`** `Feb 14, 2025`
+- Academic Excellence Scholarship Ⅲ **`Top 5% by GPA`** `Jan 29, 2024`
 
 ### Projects
 
