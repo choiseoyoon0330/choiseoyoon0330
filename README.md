@@ -14,7 +14,7 @@
 - 14th Qualcomm Institute AI Research-focused Project **`Project Team Member`** `Jan 2025 - Feb 2025`
 
 ### Awards & Honors
-- Academic Distinction Award **`Top ranked by GPA`** `Jul 2025`
+- Academic Distinction Award **`Top-ranked by GPA`** `Jul 2025`
 - 14th Qualcomm Institute AI Research-focused Project **`2nd Place - Outstanding Achievement Award`** `Feb 14, 2025`
 - Academic Excellence Scholarship Ⅲ **`Top 5% by GPA`** `Jan 29, 2024`
 
