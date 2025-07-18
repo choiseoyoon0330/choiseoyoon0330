@@ -48,7 +48,7 @@
         Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
       </td>
       <td>
-        Python
+        Python, KNIME
       </td>
       <td>
         <a href="https://arxiv.org/abs/2507.13112">[Paper]</a>
