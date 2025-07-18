@@ -51,6 +51,7 @@
         Python
       </td>
       <td>
+        <a href="https://arxiv.org/abs/2507.13112">[Paper]</a>
         <a href="https://github.com/choiseoyoon0330/Traffic-Flow-Prediction">[GitHub]</a>
       </td>
     </tr>
