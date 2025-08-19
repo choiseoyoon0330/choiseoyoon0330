@@ -64,6 +64,3 @@
     </tr>
   </tbody>
 </table>
-
-### Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkirook)](https://solved.ac/kkirook/)
