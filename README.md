@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white">  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white">  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white">
 
 ### Experiences
+- AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - `
 - 14th Qualcomm Institute AI Research-focused Project **`Project Team Member`** `Jan 2025 - Feb 2025`
 
 ### Awards & Honors
