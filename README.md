@@ -4,12 +4,6 @@
 * Multimodal Learning
 * Vision-Language Models
 
-### Skills
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white">  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white">  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white">
-
 ### Experiences
 - AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - `
 - 14th Qualcomm Institute AI Research-focused Project **`Project Team Member`** `Jan 2025 - Feb 2025`
