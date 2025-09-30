@@ -3,7 +3,6 @@
 ### Interests
 * Multimodal Learning
 * Vision-Language Models
-* 3D Reconstruction
 
 ### Experiences
 - AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - `
