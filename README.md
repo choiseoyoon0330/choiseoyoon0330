@@ -2,10 +2,10 @@
 
 ### Interests
 * Multimodal Learning
-* Vision-Language Models
+* Vision-Language Action
 
 ### Experiences
-- AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - `
+- AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - Dec 2025`
 - 14th Qualcomm Institute AI Research-focused Project **`Project Team Member`** `Jan 2025 - Feb 2025`
 
 ### Awards & Honors
