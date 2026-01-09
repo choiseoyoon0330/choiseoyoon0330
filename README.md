@@ -2,7 +2,7 @@
 
 ### Interests
 * Multimodal Learning
-* Vision-Language Action
+* Vision-Language-Action Model
 
 ### Experiences
 - AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - Dec 2025`
