@@ -3,11 +3,12 @@
 ### Interests
 * Multimodal Learning
 * VLA Model
+* Computer Vision
 
 ### Experiences
-- AI Engineer @ Aero Robotics Innovation **`Internship`** `Aug 2025 - Dec 2025`
-- 14th Qualcomm Institute AI Research-focused Project **`Project Team Member`** `Jan 2025 - Feb 2025`
-- Member of APPS Sookmyung (Application/Web Development Club) **`10.5 cohort`** `Sep 2023 - Mar 2024`
+- AI Engineer Intern @ Aero Robotics Innovation `Aug 2025 - Dec 2025`
+- 14th Qualcomm Institute AI Research-focused Project `Jan 2025 - Feb 2025`
+- Member of APPS Sookmyung(Application/Web Development Club) `Sep 2023 - Mar 2024`
 
 ### Awards & Honors
 - Academic Distinction Award **`Top-ranked by GPA`** `Jul 2025`
