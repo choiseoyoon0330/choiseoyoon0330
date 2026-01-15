@@ -62,5 +62,17 @@
         <a href="https://github.com/choiseoyoon0330/NST-Video">[GitHub]</a>
       </td>
     </tr>
+    <tr> 
+      <td>Sep 2023 - Mar 2024</td>
+      <td>
+        SNAPIX - Online Platform for Photographers
+      </td>
+      <td>
+        HTML, CSS, JavaScript
+      </td>
+      <td>
+        <a href="https://github.com/choiseoyoon0330/SNAPIX">[GitHub]</a>
+      </td>
+    </tr>
   </tbody>
 </table>
